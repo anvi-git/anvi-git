@@ -1,4 +1,5 @@
 # Hi there, I'm Antonio! 👋
+<img src="your-banner-image-url" alt="Banner" width="500">
 
 ![Banner Image](<img src="[https://link-to-your-image.com/banner-image.jpg](https://github.com/anvi-git/anvi-git/blob/main/wallpaper_github.jpeg)" alt="Banner" width="800" />)
 
