@@ -13,7 +13,7 @@ I'm a passionate Astrophysicist with experience in Physics and Python. I love ta
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://lastscatteringsurface.substack.com/)
+- **[Personal Website / Blog]**([https://lastscatteringsurface.substack.com])
 - **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/antonio-viscusi/))
 
 
