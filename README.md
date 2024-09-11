@@ -10,7 +10,8 @@ I love tackling complex problems, learning new skills (and languages!), and work
 - Currently learning: SQL, JavaScript, Java, Tableau
 - Focusing on: displaying my book library online with beautiful plots and histograms
 - Programming Languages: Python <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/python_sticker.png" alt="Sticker" width="20" height="20" />,
-C/C++, ...,
+              C/C++ <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/c%2B%2B_sticker.png" alt="Sticker" width="20" height="20" />,
+              ...,
 - Languages: Italian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/italy_sticker.png" alt="Sticker" width="20" height="20" />,
              English <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/eng_sticker.png" alt="Sticker" width="20" height="20" />,
 and some basic Norwegian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/norwegian_sticker.png" alt="Sticker" width="20" height="20" />!
