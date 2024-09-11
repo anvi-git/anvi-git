@@ -1,7 +1,5 @@
 # Hi there, I'm Antonio! 👋
-<img src="https://github.com/anvi-git/anvi-git/blob/main/wallpaper_github.jpeg" alt="Banner" width="500">
-
-![Banner Image](<img src="[https://link-to-your-image.com/banner-image.jpg](https://github.com/anvi-git/anvi-git/blob/main/wallpaper_github.jpeg)" alt="Banner" width="800" />)
+<img src="https://github.com/anvi-git/anvi-git/blob/main/wallpaper_github.jpeg" alt="Banner" width="300" height="1000">
 
 ## About Me 🚀
 
