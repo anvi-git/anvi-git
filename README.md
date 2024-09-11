@@ -3,7 +3,9 @@
 
 ## About Me 🚀
 
-I'm a passionate Astrophysicist with experience in Physics and Python. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm an Astrophysicist graduate and I love science, technology, and philosophy.
+I have experience in Physics and Python. 
+I love tackling complex problems, learning new skills (and languages!), and working with data and numbers.
 
 - 🌱 Currently learning: SQL, JavaScript, Java, Tableau
 - 🔭 Focusing on: displaying my book library online with beautiful plots and histograms
