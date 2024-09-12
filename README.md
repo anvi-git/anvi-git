@@ -15,7 +15,7 @@ I love tackling complex problems, learning new skills (and languages!), and work
 - Languages: Italian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/italy_sticker.png" alt="Sticker" width="20" height="20" />,
              English <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/eng_sticker.png" alt="Sticker" width="20" height="20" />,
    and basic Norwegian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/norwegian_sticker.png" alt="Sticker" width="20" height="20" />!
-- I currently maintain a newsletter (https://lastscatteringsurface.substack.com), and I wrote a small book of fiction
+- I currently maintain a [newsletter](https://lastscatteringsurface.substack.com), and I wrote a small book of fiction
 
 ## Get in Touch with me! 
 - [**Mail**](aviscusi11@gmail.com)
