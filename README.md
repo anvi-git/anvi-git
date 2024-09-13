@@ -18,7 +18,7 @@ I love tackling complex problems, learning new skills (and languages!), and work
 - I currently maintain a [newsletter](https://lastscatteringsurface.substack.com), and I wrote a small book of fiction
 
 ## Get in Touch with me! 
-- [**Mail**](aviscusi11@gmail.com)
+- **Mail**(aviscusi11@gmail.com)
 - [**Newsletter**](https://lastscatteringsurface.substack.com)
 - [**LinkedIn**](https://www.linkedin.com/in/antonio-viscusi)
 
