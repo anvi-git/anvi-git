@@ -8,7 +8,7 @@ I have experience in Physics and Python.
 I love tackling complex problems, learning new skills (and languages!), and working with data and numbers.
 
 - Currently learning: JavaScript and Machine Learning!
-- Focusing on: displaying my [book library](https://github.com/anvi-git/Project_Book_library) with beautiful plots and histograms 
+- Focusing on: displaying my [book library](https://github.com/anvi-git/Project_Book_library) and [music library](https://github.com/anvi-git/Project_Music_Library) with beautiful plots and histograms 
 - Programming Languages: <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/python_sticker.png" alt="Sticker" width="20" height="20" />,
                          <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/c%2B%2B_sticker.png" alt="Sticker" width="20" height="20" />
 - Languages: Italian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/italy_sticker.png" alt="Sticker" width="20" height="20" />,
