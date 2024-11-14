@@ -4,7 +4,9 @@
 ## About Me 
 
 I'm an Astrophysicist graduate and I love science, technology, and philosophy. 
+
 I'm currently working as ETL Developer for a multi-national IT company. 
+
 I have experience in Physics and Python.  
 I love tackling complex problems, learning new skills (and languages!), and working with data and numbers.
 
