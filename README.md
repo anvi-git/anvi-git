@@ -14,8 +14,9 @@ I love tackling complex problems, learning new skills (and languages!), and work
 - Currently learning: PySpark, Django, Datastage!
 - Personal projects: check my [book](https://github.com/anvi-git/Project_Book_library) and [music](https://github.com/anvi-git/Project_Music_Library) libraries! 
 - Programming Languages: <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/python_sticker.png" alt="Sticker" width="20" height="20" />,
-                         <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/c%2B%2B_sticker.png" alt="Sticker" width="20" height="20" />,
-                         <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/sql-server.png" alt="Sticker" width="20" height="20" />
+                         <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/sql-server.png" alt="Sticker" width="20" height="20" />,
+                         <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/c%2B%2B_sticker.png" alt="Sticker" width="20" height="20" />
+                         
                         
 - Languages: Italian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/italy_sticker.png" alt="Sticker" width="20" height="20" />,
              English <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/eng_sticker.png" alt="Sticker" width="20" height="20" />,
