@@ -3,15 +3,13 @@
 
 ## About Me 
 
-I'm an Astrophysicist graduate and I love science, technology, and philosophy. 
+I'm an Astrophysics graduate and I'm working as a Back End Developer for a multi-national IT company. 
 
-I'm currently working as ETL Developer for a multi-national IT company. 
-
-I have experience in Physics and Python.  
+I have experience in Physics, Maths, Python, SQL.  
 
 I love tackling complex problems, learning new skills (and languages!), and working with data and numbers.
 
-- Currently learning: PySpark, Django, Datastage!
+- Currently learning: Machine Learning!
 - Personal projects: check my [book](https://github.com/anvi-git/Project_Book_library) and [music](https://github.com/anvi-git/Project_Music_Library) libraries! 
 - Programming Languages: <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/python_sticker.png" alt="Sticker" width="20" height="20" />,
                          <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/sql-server.png" alt="Sticker" width="20" height="20" />,
@@ -21,12 +19,24 @@ I love tackling complex problems, learning new skills (and languages!), and work
 - Languages: Italian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/italy_sticker.png" alt="Sticker" width="20" height="20" />,
              English <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/eng_sticker.png" alt="Sticker" width="20" height="20" />,
    and basic Norwegian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/norwegian_sticker.png" alt="Sticker" width="20" height="20" />!
-- I have maintained a [newsletter](https://lastscatteringsurface.substack.com), and I wrote a small book of fiction
+- I have maintained a [newsletter](https://lastscatteringsurface.substack.com), and I wrote a small book of fiction.
+- This is my [personal website](https://anvi-git.github.io/backyard_thoughts/)
 
 ## Get in Touch with me! 
 - **Mail** (aviscusi11@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/antonio-viscusi)
 - [**Newsletter**](https://lastscatteringsurface.substack.com)
 
+<style>
+/* LINKS */
+a {
+    color: rgb(3, 53, 106);
+    text-decoration: none;
+}
 
-
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    color: #cb122e; /* Change the color on hover */
+}
+</style>
