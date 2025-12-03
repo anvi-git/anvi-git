@@ -24,6 +24,5 @@ I love tackling complex problems, learning new skills (and languages!), and work
 
 ## Get in Touch with me! 
 - [**Mail**](aviscusi11@gmail.com)
-- [**LinkedIn**](https://www.linkedin.com/in/antonio-viscusi)
-- [**Newsletter**](https://lastscatteringsurface.substack.com)
+- [**Newsletter**](https://substack.com/@anvianvi)
 - [**All my links**](https://anvi-git.github.io/voyager/landing_page.html)
