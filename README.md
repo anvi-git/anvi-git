@@ -19,8 +19,9 @@ I love tackling complex problems, learning new skills (and languages!), and work
 - Languages: Italian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/italy_sticker.png" alt="Sticker" width="20" height="20" />,
              English <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/eng_sticker.png" alt="Sticker" width="20" height="20" />,
    and basic Norwegian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/norwegian_sticker.png" alt="Sticker" width="20" height="20" />!
-- I maintain a newsletter on [music](https://spaceofsound.substack.com/), and one on [cosmology](https://lastscatteringsurface.substack.com). I wrote a small book of fiction.
-- This is my [personal website](https://anvi-git.github.io/backyard_thoughts/)
+- I maintain a newsletter on [history and philosophy of science](https://heraldingtime.substack.com/), one on [cosmology](https://lastscatteringsurface.substack.com), and one on [music](https://spaceofsound.substack.com/). <br>
+I wrote a small book of fiction.
+- This is my [personal website](https://anvi-git.github.io/voyager/)
 
 ## Get in Touch with me! 
 - [**Mail**](aviscusi11@gmail.com)
