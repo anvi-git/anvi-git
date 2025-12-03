@@ -23,7 +23,7 @@ I love tackling complex problems, learning new skills (and languages!), and work
 - This is my [personal website](https://anvi-git.github.io/backyard_thoughts/)
 
 ## Get in Touch with me! 
-- **Mail** (aviscusi11@gmail.com)
+- [**Mail**](aviscusi11@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/antonio-viscusi)
 - [**Newsletter**](https://lastscatteringsurface.substack.com)
-- [**All my links**](https://linktr.ee/anvi_tree)
+- [**All my links**](https://anvi-git.github.io/voyager/landing_page.html)
