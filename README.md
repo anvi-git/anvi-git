@@ -3,9 +3,7 @@
 
 ## About Me 
 
-I'm an Astrophysics graduate and I'm working as a Back End Developer for a multi-national IT company. 
-
-I have experience in Physics, Maths, Python, SQL.  
+I'm an Astrophysics graduate and I'm currently enrolled in a Master in Space Science. 
 
 I love tackling complex problems, learning new skills (and languages!), and working with data and numbers.
 
