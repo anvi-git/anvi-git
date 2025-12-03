@@ -5,7 +5,7 @@
 
 I'm an Astrophysics graduate and I'm currently enrolled in a Master in Space Science. 
 
-I love tackling complex problems, learning new skills (and languages!), and working with data and numbers.
+I love tackling complex problems, reading history and philosophy, and working with data and numbers.
 
 - Currently learning: Machine Learning!
 - Personal projects: check my [book](https://github.com/anvi-git/Project_Book_library) and [music](https://github.com/anvi-git/Project_Music_Library) libraries! 
