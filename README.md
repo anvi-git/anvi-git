@@ -1,6 +1,8 @@
 # Hi there, _anvi_ here.
-<img src="https://github.com/anvi-git/anvi-git/blob/main/wallpaper_github.jpeg" alt="Banner" width="800" height="150">
-*<small><small>shot on September 2023 in Roque de los Muchachos, Canary Islands.*
+<p align="center">
+  <img src="https://github.com/anvi-git/anvi-git/blob/main/wallpaper_github.jpeg" alt="Banner" width="800" height="150">
+  <sub><small><small>shot on September 2023 in Roque de los Muchachos, Canary Islands.</sub>
+</p>
 
 ## About Me 
 
@@ -27,7 +29,11 @@ Norwegian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/norw
 - [**Newsletter**](https://substack.com/@anvianvi)
 - [**All my links**](https://anvi-git.github.io/voyager/landing_page.html)
 
-<img src="https://github.com/anvi-git/anvi-git/blob/main/22agosto-1.jpg" alt="Banner" width="800" height="150">
-*<small><small>this startrail was created by me on August 2016.*
+<p align="center">
+  <img src="https://github.com/anvi-git/anvi-git/blob/main/22agosto-1.jpg" alt="Banner" width="800" height="150">
+  <sub><small><small>this startrail was created by me on August 2016.
+</sub>
+</p>
+
 <br>
 <small><small>this page was created by me. <br>My name is Antonio Viscusi.<br>Hello again.</small></small>
