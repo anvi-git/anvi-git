@@ -1,7 +1,7 @@
 # Hi there, _anvi_ here.
 <p align="center">
-  <img src="https://github.com/anvi-git/anvi-git/blob/main/wallpaper_github.jpeg" alt="Banner" width="800" height="150">
-  <sub><small><small>shot on September 2023 in Roque de los Muchachos, Canary Islands.</sub>
+  <img src="https://github.com/anvi-git/anvi-git/blob/main/wallpaper_github.jpeg" alt="Banner" width="800" height="150"
+  <sub><br><small><small>shot on September 2023 in Roque de los Muchachos, Canary Islands.</sub>
 </p>
 
 ## About Me 
