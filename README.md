@@ -27,3 +27,4 @@ Norwegian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/norw
 - [**All my links**](https://anvi-git.github.io/voyager/landing_page.html)
 
 <img src="https://github.com/anvi-git/anvi-git/blob/main/22agosto-1.jpg" alt="Banner" width="800" height="200">
+<small>this page was done by me. My name is Antonio Viscusi. Hello again.</small>
