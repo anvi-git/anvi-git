@@ -31,7 +31,7 @@ Norwegian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/norw
 
 <p align="center">
   <img src="https://github.com/anvi-git/anvi-git/blob/main/22agosto-1.jpg" alt="Banner" width="800" height="150">
-  <sub><br><small><small>this startrail was created by me on August 2016.
+  <sub><br><small><small>this startrail was created by me in August 2016.
 </sub>
 </p>
 
