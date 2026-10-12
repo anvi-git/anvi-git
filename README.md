@@ -27,7 +27,7 @@ Norwegian <img src="https://github.com/anvi-git/anvi-git/blob/main/stickers/norw
 ## Get in touch with me
 - [**Mail**](aviscusi11@gmail.com)
 - [**Newsletter**](https://substack.com/@anvianvi)
-- [**All my links**](https://anvi-git.github.io/voyager/landing_page.html)
+- [**All my links**](https://anvi-git.github.io/backyard_thougths)
 
 <p align="center">
   <img src="https://github.com/anvi-git/anvi-git/blob/main/22agosto-1.jpg" alt="Banner" width="800" height="150">
