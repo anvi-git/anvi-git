@@ -15,7 +15,7 @@ a newsletter on [cosmology](https://lastscatteringsurface.substack.com).<br>
 a newsletter on [music](https://spaceofsound.substack.com/).<br>
 I wrote a small book of fiction.<br>
 check my [book](https://github.com/anvi-git/Project_Book_library) library.<br>
-my [personal website]([https://anvi-git.github.io/backyard/index.html?lang=en](https://anvi-git.github.io/backyard_thougths/)).
+my [personal website](https://anvi-git.github.io/backyard_thougths).
 
 ---
 ### Languages
